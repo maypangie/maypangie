@@ -1,16 +1,18 @@
-## Hi there 👋
+## Greetings 👋
 
 <!--
 **maypangie/maypangie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
+<h1>I'm Mayleen, a SoftWare Engineer and Artist!</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: SHE/HER
+- 🔭 I’m currently working @ResilientCoders
+- 🌱 I’m currently learning MERN (MongoDB, Express, React, Node.js)
+- ⚡ Fun fact: I make self-defense tools! 
+- 💬 Ask me about my Journey
+
+
+
+<!-- - 📫 How to reach me: Linkedin, or Email! -->
+
