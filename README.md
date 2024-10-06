@@ -1,10 +1,10 @@
-## Greetings 👋
+Greetings 👋
 
 <!--
 **maypangie/maypangie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-<h1>I'm Mayleen, a SoftWare Engineer and Artist!</h1>
+<h1>I'm Mayleen, a Software Engineer and Artist!</h1>
 
 - 😄 Pronouns: SHE/HER
 - 🔭 I’m currently working @ResilientCoders
