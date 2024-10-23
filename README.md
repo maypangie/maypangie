@@ -3,8 +3,7 @@
 
 ![BUILT2LAST-10-22-2024](https://github.com/user-attachments/assets/03bdfe7f-63db-44f7-8e0b-d0015c8379d6)
 
-<h1>name = input("MAYLEEN")</h1>
-<h4>Student of Life | Software Engineer</h4>
+<h1>Student of Life | Software Engineer</h1>
 
 To know anything is to know that I know nothing at all.
 
