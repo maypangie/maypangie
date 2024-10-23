@@ -6,7 +6,7 @@ Greetings 👋
 Here are some ideas to get you started: -->
 <h1>I'm Mayleen, a Software Engineer and Artist!</h1>
 
-- 😄 Pronouns: SHE/HER
+- 🎀 Pronouns: SHE/HER
 - 🔭 I’m currently working @ResilientCoders
 - 🌱 I’m currently learning MERN (MongoDB, Express, React, Node.js)
 - ⚡ Fun fact: I make self-defense tools! 
