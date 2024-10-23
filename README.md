@@ -1,9 +1,8 @@
-Greetings 👋
 
-<!--
-**maypangie/maypangie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+
+![BUILT2LAST-10-22-2024](https://github.com/user-attachments/assets/03bdfe7f-63db-44f7-8e0b-d0015c8379d6)
+
 
 
 <h1>I'm Mayleen, a Software Engineer and Artist!</h1>
