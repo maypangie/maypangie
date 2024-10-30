@@ -5,12 +5,12 @@
 
 <h1>Student of Life | Software Engineer</h1>
 
-I'm a passionate Software Engineer and Artist, always eager to learn new things and expand my skills. 
+I'm always eager to learn new things and expand my skills. 
 Constantly inspired to grow, explore new techniques and to keep my input in on a rapidly evolving digital world + how I am able to help shape it.
 
 pick my brain at: earth2may@gmail.com
 
-Currently learning: JS
+
 
 
 
