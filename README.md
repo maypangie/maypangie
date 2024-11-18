@@ -8,7 +8,7 @@
 I'm always eager to learn new things and expand my skills. 
 Constantly inspired to grow, explore new techniques and to contribute to a rapidly evolving digital world + how I am able to help shape it.
 
-HTML5 | CSS | JAVASCRIPT 
+Currently building with: HTML5 | CSS | JAVASCRIPT 
 
 pick my brain at: earth2may@gmail.com
 
