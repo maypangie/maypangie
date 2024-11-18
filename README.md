@@ -10,7 +10,7 @@ Constantly inspired to grow, explore new techniques and to contribute to a rapid
 
 Currently building with: HTML5 | CSS | JAVASCRIPT 
 
-pick my brain at: earth2may@gmail.com
+Pick my brain at: earth2may@gmail.com 🌱
 
 
 
