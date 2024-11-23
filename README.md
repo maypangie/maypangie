@@ -13,8 +13,5 @@ Currently building with: JAVASCRIPT - MERN | HTML5 | CSS
 Pick my brain at: earth2may@gmail.com 🌱
 
 
-
-
-
 <!-- - 📫 How to reach me: Linkedin, or Email! -->
 
